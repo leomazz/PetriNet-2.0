@@ -1,0 +1,1969 @@
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T5 foi disparada. Tempo= 0
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'token A 2 1 1 0'
+Estacao: A recebe 'token A 2 1 1 0'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'token A 2 2 1 0'
+Estacao: A recebe 'token A 2 2 1 0'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+T0'temporizada' foi disparada. Tempo= 2
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'token 0 2 0 1 0'
+Estacao: A recebe 'token B 3 1 1 0'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+T1 foi disparada. Tempo= 2
+Estacao: A envia 'token 0 2 0 1 0'
+Estacao: A recebe 'token B 3 1 1 0'
+T2 foi disparada. Tempo= 2
+Estacao: A envia 'chamada A C T1 false'
+Estacao: A recebe 'resposta C A false'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'token B 3 1 1 0'
+Estacao: A recebe 'chamada C A T3 false'
+Estacao: A envia 'resposta A C true'
+Estacao: A recebe 'token B 3 2 1 0'
+Estacao: A envia 'chamada A C T1 false'
+Estacao: A recebe 'resposta C A true'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'chamada A C T1 false'
+Estacao: A recebe 'resposta C A true'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+T3_A/T1_C 'fusion' foi disparada. Tempo= 3
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A false'
+Estacao: A envia 'token B 3 2 1 0'
+Estacao: A recebe 'chamada B A T4 false'
+Estacao: A envia 'resposta A B true'
+Estacao: A recebe 'chamada C A T3 false'
+Estacao: A envia 'resposta A C true'
+Estacao: A recebe 'chamada C A T3 false'
+Estacao: A envia 'resposta A C true'
+Estacao: A recebe 'token B 3 3 1 0'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A true'
+Estacao: A envia 'chamada A B T1 false'
+Estacao: A recebe 'resposta B A true'
+T4_A/T1_B 'fusion' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'chamada B A T4 false'
+Estacao: A envia 'resposta A B true'
+Estacao: A recebe 'chamada B A T4 false'
+Estacao: A envia 'resposta A B true'
+Estacao: A recebe 'token B 3 3 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 3 3 1 0'
+Estacao: A recebe 'token B 3 3 0 1'
+Estacao: A envia 'token B 3 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T5 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+T4 foi disparada. Tempo= 0
+Estacao: A envia 'token A 2 1 1 0'
+Estacao: A recebe 'token A 2 1 1 0'
+Estacao: A envia 'token A 2 2 1 0'
+Estacao: A recebe 'token A 2 2 1 0'
+T0'temporizada' foi disparada. Tempo= 2
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+Estacao: A envia 'token C 3 1 1 0'
+Estacao: A recebe 'token C 3 2 1 0'
+Estacao: A envia 'token C 3 2 1 0'
+Estacao: A recebe 'token 0 3 0 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token B 4 1 1 0'
+Estacao: A envia 'token B 4 1 1 0'
+Estacao: A recebe 'token B 4 2 1 0'
+Estacao: A envia 'token B 4 2 1 0'
+Estacao: A recebe 'token C 4 3 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token A 5 1 1 0'
+Estacao: A envia 'token A 5 2 1 0'
+Estacao: A recebe 'token A 5 2 1 0'
+T2'temporizada' foi disparada. Tempo= 5
+Estacao: A envia 'token 0 5 0 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+T1 foi disparada. Tempo= 5
+T3 foi disparada. Tempo= 5
+Estacao: A envia 'token A 10 1 1 0'
+Estacao: A recebe 'token A 10 1 1 0'
+Estacao: A envia 'token A 10 2 1 0'
+Estacao: A recebe 'token A 10 2 1 0'
+T2'temporizada' foi disparada. Tempo= 10
+Estacao: A envia 'token A 10 3 1 0'
+Estacao: A recebe 'token A 10 3 1 0'
+Estacao: A envia 'token A 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1728
+Estacao: A recebe 'token 0 0 0 1 0'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T5 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+T4 foi disparada. Tempo= 0
+Estacao: A envia 'token A 2 1 1 0'
+Estacao: A recebe 'token A 2 1 1 0'
+Estacao: A envia 'token A 2 2 1 0'
+Estacao: A recebe 'token A 2 2 1 0'
+T0'temporizada' foi disparada. Tempo= 2
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+Estacao: A envia 'token C 3 1 1 0'
+Estacao: A recebe 'token C 3 2 1 0'
+Estacao: A envia 'token C 3 2 1 0'
+Estacao: A recebe 'token 0 3 0 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token B 4 1 1 0'
+Estacao: A envia 'token B 4 1 1 0'
+Estacao: A recebe 'token B 4 2 1 0'
+Estacao: A envia 'token B 4 2 1 0'
+Estacao: A recebe 'token C 4 3 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token A 5 1 1 0'
+Estacao: A envia 'token A 5 2 1 0'
+Estacao: A recebe 'token A 5 2 1 0'
+T2'temporizada' foi disparada. Tempo= 5
+Estacao: A envia 'token 0 5 0 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+T1 foi disparada. Tempo= 5
+T3 foi disparada. Tempo= 5
+Estacao: A envia 'token A 10 1 1 0'
+Estacao: A recebe 'token A 10 1 1 0'
+Estacao: A envia 'token A 10 2 1 0'
+Estacao: A recebe 'token A 10 2 1 0'
+T2'temporizada' foi disparada. Tempo= 10
+Estacao: A envia 'token A 10 3 1 0'
+Estacao: A recebe 'token A 10 3 1 0'
+Estacao: A envia 'token A 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 5 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao: A envia 'token B 10 3 0 1'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 11 1 1 0'
+Estacao: A envia 'token B 11 1 1 0'
+Estacao: A recebe 'token B 11 2 1 0'
+Estacao: A envia 'token B 11 2 1 0'
+Estacao: A recebe 'token B 11 3 1 0'
+Estacao: A envia 'token B 11 3 1 0'
+Estacao: A recebe 'token B 11 3 0 1'
+Estacao: A envia 'token B 11 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 11 1 1 0'
+Estacao: A envia 'token B 11 1 1 0'
+Estacao: A recebe 'token B 11 2 1 0'
+Estacao: A envia 'token B 11 2 1 0'
+Estacao: A recebe 'token B 11 3 1 0'
+Estacao: A envia 'token B 11 3 1 0'
+Estacao: A recebe 'token B 11 3 0 1'
+Estacao: A envia 'token B 11 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T5 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+T4 foi disparada. Tempo= 0
+Estacao: A envia 'token A 2 1 1 0'
+Estacao: A recebe 'token A 2 1 1 0'
+Estacao: A envia 'token A 2 2 1 0'
+Estacao: A recebe 'token A 2 2 1 0'
+T0'temporizada' foi disparada. Tempo= 2
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token C 3 1 1 0'
+Estacao: A envia 'token C 3 1 1 0'
+Estacao: A recebe 'token C 3 2 1 0'
+Estacao: A envia 'token C 3 2 1 0'
+Estacao: A recebe 'token 0 3 0 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token B 4 1 1 0'
+Estacao: A envia 'token B 4 1 1 0'
+Estacao: A recebe 'token B 4 2 1 0'
+Estacao: A envia 'token B 4 2 1 0'
+Estacao: A recebe 'token C 4 3 1 0'
+Estacao: A envia 'token A 5 1 1 0'
+Estacao: A recebe 'token A 5 1 1 0'
+Estacao: A envia 'token A 5 2 1 0'
+Estacao: A recebe 'token A 5 2 1 0'
+T2'temporizada' foi disparada. Tempo= 5
+Estacao: A envia 'token 0 5 0 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+T1 foi disparada. Tempo= 5
+T3 foi disparada. Tempo= 5
+Estacao: A envia 'token A 10 1 1 0'
+Estacao: A recebe 'token A 10 1 1 0'
+Estacao: A envia 'token A 10 2 1 0'
+Estacao: A recebe 'token A 10 2 1 0'
+T2'temporizada' foi disparada. Tempo= 10
+Estacao: A envia 'token A 10 3 1 0'
+Estacao: A recebe 'token A 10 3 1 0'
+Estacao: A envia 'token A 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token 0 3 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 3
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token 0 5 0 1 0'
+Estacao: A envia 'token A 6 1 1 0'
+Estacao: A recebe 'token A 6 1 1 0'
+Estacao: A envia 'token A 6 2 1 0'
+Estacao: A recebe 'token A 6 2 1 0'
+T3'temporizada' foi disparada. Tempo= 6
+Estacao: A envia 'token A 6 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token B 10 3 1 0'
+Estacao: A envia 'token B 10 3 1 0'
+Estacao: A recebe 'token B 10 3 0 1'
+Estacao: A envia 'token B 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token B 5 3 1 0'
+Estacao: A envia 'token B 5 3 1 0'
+Estacao: A recebe 'token B 5 3 0 1'
+Estacao: A envia 'token B 5 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T1 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token C 5 3 1 0'
+Estacao: A envia 'token C 5 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token C 10 3 1 0'
+Estacao: A envia 'token C 10 3 1 0'
+Estacao: A recebe 'token C 10 3 0 1'
+Estacao: A envia 'token C 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token C 5 3 1 0'
+Estacao: A envia 'token C 5 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token C 10 3 1 0'
+Estacao: A envia 'token C 10 3 1 0'
+Estacao: A recebe 'token C 10 3 0 1'
+Estacao: A envia 'token C 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
+Estacao A a conectar-se no localhost na porta 1729
+Socket Conectado.
+Estacao A a ouvir na porta 1728
+ServerSocket Conectado.
+Estacao: A recebe 'token 0 0 0 1 0'
+T0 foi disparada. Tempo= 0
+Estacao: A envia 'token 0 0 0 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+T2 foi disparada. Tempo= 0
+Estacao: A envia 'token A 3 1 1 0'
+Estacao: A recebe 'token A 3 1 1 0'
+Estacao: A envia 'token A 3 2 1 0'
+Estacao: A recebe 'token A 3 2 1 0'
+T3'temporizada' foi disparada. Tempo= 3
+Estacao: A envia 'token A 3 3 1 0'
+Estacao: A recebe 'token B 5 1 1 0'
+Estacao: A envia 'token B 5 1 1 0'
+Estacao: A recebe 'token B 5 2 1 0'
+Estacao: A envia 'token B 5 2 1 0'
+Estacao: A recebe 'token C 5 3 1 0'
+Estacao: A envia 'token C 5 3 1 0'
+Estacao: A recebe 'token B 10 1 1 0'
+Estacao: A envia 'token B 10 1 1 0'
+Estacao: A recebe 'token B 10 2 1 0'
+Estacao: A envia 'token B 10 2 1 0'
+Estacao: A recebe 'token C 10 3 1 0'
+Estacao: A envia 'token C 10 3 1 0'
+Estacao: A recebe 'token C 10 3 0 1'
+Estacao: A envia 'token C 10 3 0 1'
+Socket Closed.
+ServerSocket Closed.
