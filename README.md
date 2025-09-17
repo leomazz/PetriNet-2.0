@@ -1,4 +1,4 @@
-# Ambiente de Simulação Distribuída de Sistemas Produtivos / Distributed Simulation Environment for Production Systems
+# Ambiente de Simulação Distribuída de Sistemas Produtivos / Environment for the Distributed Simulation of Production Systems
 
 ## 🇧🇷 Ambiente de Simulação Distribuída de Sistemas Produtivos
 
@@ -40,7 +40,7 @@ java -jar dist/PetriNet-2.0.jar
 
 ---
 
-## 🇺🇸 Distributed Simulation Environment for Production Systems
+## 🇺🇸 Environment for the Distributed Simulation of Production Systems
 
 This repository contains the implementation of **PetriNet 2.0**, a Java-based environment for **distributed simulation of production systems**, developed as a final graduation project in Mechatronics Engineering (Escola Politécnica, University of São Paulo, 2007).
 
