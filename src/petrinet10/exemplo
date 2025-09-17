@@ -1,0 +1,89 @@
+        
+        //lugares:
+        Lugar l1 = new Lugar("L1");
+        Lugar l2 = new Lugar("L2");
+        Lugar l3 = new Lugar("L3");
+        Lugar l4 = new Lugar("L4");
+        Lugar l5 = new Lugar("L5");
+        Lugar l6 = new Lugar("L6");
+        Lugar l7 = new Lugar("L7");
+        Lugar l8 = new Lugar("L8");
+        Lugar l9 = new Lugar("L9");
+        
+        //transicoes:
+        Transicao t1 = new Transicao("T1");
+        Transicao t2 = new Transicao("T2");    
+        Transicao t3 = new Transicao("T3");    
+        Transicao t4 = new Transicao("T4");    
+        Transicao t5 = new Transicao("T5");    
+        Transicao t6 = new Transicao("T6");
+        Transicao t7 = new Transicao("T7");
+        Transicao t8 = new Transicao("T8");
+        
+        //arcos:
+        Arco a1 = new Arco(l1, t1, 2, Arco.LUGAR_TRANSICAO);
+        Arco a2 = new Arco(l2, t1, 1, Arco.TRANSICAO_LUGAR);
+        Arco a3 = new Arco(l3, t1, 4, Arco.TRANSICAO_LUGAR);
+        Arco a4 = new Arco(l2, t2, 1, Arco.LUGAR_TRANSICAO);
+        Arco a5 = new Arco(l3, t2, 1, Arco.LUGAR_TRANSICAO);
+        Arco a6 = new Arco(l4, t2, 5, Arco.TRANSICAO_LUGAR);
+        Arco a7 = new Arco(l5, t3, 4, Arco.TRANSICAO_LUGAR);
+        Arco a8 = new Arco(l5, t7, 2, Arco.LUGAR_TRANSICAO);
+        Arco a9 = new Arco(l5, t8, 2, Arco.LUGAR_TRANSICAO);
+        Arco a10 = new Arco(l6, t4, 1, Arco.LUGAR_TRANSICAO);
+        Arco a11 = new Arco(l7, t5, 1, Arco.LUGAR_TRANSICAO);
+        Arco a12 = new Arco(l8, t4, 3, Arco.TRANSICAO_LUGAR);
+        Arco a13 = new Arco(l9, t5, 2, Arco.TRANSICAO_LUGAR);
+        Arco a14 = new Arco(l8, t6, 1, Arco.LUGAR_TRANSICAO);
+        Arco a15 = new Arco(l9, t6, 2, Arco.TRANSICAO_LUGAR);
+        Arco a16 = new Arco(l6, t7, 3, Arco.TRANSICAO_LUGAR);
+        Arco a17 = new Arco(l7, t8, 3, Arco.TRANSICAO_LUGAR);
+        Arco a18 = new Arco(l1, t3, 3, Arco.LUGAR_TRANSICAO);
+        
+        l1.setTokens(100);
+        l1.setCapacidade(100);
+        l3.setCapacidade(4);
+        l4.setCapacidade(5);
+        l5.setCapacidade(4);
+        l6.setCapacidade(3);
+        l7.setCapacidade(3);
+        l8.setCapacidade(3);
+        l9.setCapacidade(4);
+        
+        PetriNet pn = new PetriNet("Rede PetriNet 1");
+        pn.addLugar(l1);
+        pn.addLugar(l2);
+        pn.addLugar(l3);
+        pn.addLugar(l4);
+        pn.addLugar(l5);
+        pn.addLugar(l6);
+        pn.addLugar(l7);
+        pn.addLugar(l8);
+        pn.addLugar(l9);
+        pn.addArco(a1);
+        pn.addArco(a2);
+        pn.addArco(a3);
+        pn.addArco(a4);
+        pn.addArco(a5);
+        pn.addArco(a6);
+        pn.addArco(a7);
+        pn.addArco(a8);
+        pn.addArco(a9);
+        pn.addArco(a10);
+        pn.addArco(a11);
+        pn.addArco(a12);
+        pn.addArco(a13);
+        pn.addArco(a14);
+        pn.addArco(a15);
+        pn.addArco(a16);
+        pn.addArco(a17);
+        pn.addArco(a18);
+        pn.addTransicao(t1);
+        pn.addTransicao(t2);
+        pn.addTransicao(t3);
+        pn.addTransicao(t4);
+        pn.addTransicao(t5);
+        pn.addTransicao(t6);
+        pn.addTransicao(t7);
+        pn.addTransicao(t8);
+        

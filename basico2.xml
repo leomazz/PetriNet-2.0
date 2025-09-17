@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<net id="rede">
+  <place id="L5" x="84.0" y="132.0" desc="L5" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="true" offx="0" offy="0" value="1" />
+  </place>
+  <transition id="T5" x="178.0" y="133.0" tamanho="12" type="normal" desc="T5" offx="0" offy="0" />
+  <transition id="T6" x="313.0" y="108.0" tamanho="12" type="normal" desc="T6" offx="0" offy="0" />
+  <transition id="T7" x="315.0" y="169.0" tamanho="12" type="TT" desc="T7" offx="0" offy="0" time="10"/>
+  <transition id="T8" x="431.0" y="136.0" tamanho="12" type="TF" desc="T8" offx="0" offy="0" s1="A" s2="B" t1="T8" t2="T5"/>
+  <place id="L6" x="243.0" y="111.0" desc="L6" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="false" offx="0" offy="0" />
+  </place>
+  <place id="L7" x="245.0" y="169.0" desc="L7" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="false" offx="0" offy="0" />
+  </place>
+  <place id="L8" x="380.0" y="110.0" desc="L8" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="false" offx="0" offy="0" />
+  </place>
+  <place id="L9" x="381.0" y="177.0" desc="L9" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="false" offx="0" offy="0" />
+  </place>
+  <place id="L10" x="441.0" y="248.0" desc="L10" tamanho="12" capacidade="1" offx="0" offy="0">
+    <initialMarking marking="false" offx="0" offy="0" />
+  </place>
+  <arc id="a0" sentido="0" source="L5" target="T5" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="1" source="T5" target="L6" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="1" source="T5" target="L7" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="0" source="L6" target="T6" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="0" source="L7" target="T7" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="1" source="T6" target="L8" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="1" source="T7" target="L9" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="0" source="L8" target="T8" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="0" source="L9" target="T8" x="0" y="0" type="standard" />
+  <arc id="a0" sentido="1" source="T8" target="L10" x="0" y="0" type="standard" />
+</net>
+
