@@ -1,4 +1,4 @@
-# Ambiente de Simulação Distribuída de Sistemas Produtivos / Distributed Simulation Environment for Production Systems
+# Ambiente de Simulação Distribuída de Sistemas Produtivos / Environment for the Distributed Simulation of Production Systems
 
 ## 🇧🇷 Ambiente de Simulação Distribuída de Sistemas Produtivos
 
@@ -23,9 +23,10 @@ A simulação pode ser realizada de forma distribuída, em diferentes computador
 4. Execute a simulação em modo **automático** ou **passo-a-passo**.  
 
 ### 🔹 Estrutura do Projeto
+- Desenvolvido e organizado originalmente no IDE NetBeans (Java, Ant).
 - `src/` → Código-fonte em Java  
 - `lib/` → Bibliotecas externas (dom4j, jaxen, jdom, sax2)  
-- `nbproject/` → Arquivos de configuração do NetBeans  
+- `nbproject/` → Arquivos de configuração do NetBeans
 - `build.xml` → Script Ant para compilar e gerar o JAR  
 - `examples/` → Modelos XML de exemplo  
 
@@ -40,7 +41,7 @@ java -jar dist/PetriNet-2.0.jar
 
 ---
 
-## 🇺🇸 Distributed Simulation Environment for Production Systems
+## 🇺🇸 Environment for the Distributed Simulation of Production Systems
 
 This repository contains the implementation of **PetriNet 2.0**, a Java-based environment for **distributed simulation of production systems**, developed as a final graduation project in Mechatronics Engineering (Escola Politécnica, University of São Paulo, 2007).
 
@@ -63,6 +64,7 @@ The simulation can run **distributed across multiple computers**, using **TCP/IP
 4. Run the simulation in **automatic** or **step-by-step** mode.  
 
 ### 🔹 Project Structure
+- Originally developed and organized using NetBeans IDE (Java, Ant).
 - `src/` → Java source code  
 - `lib/` → External libraries (dom4j, jaxen, jdom, sax2)  
 - `nbproject/` → NetBeans configuration files  
